@@ -1,4 +1,4 @@
-It was developed on NetBeans IDE, and three databases has to be created in order to run the program correctly.
+DB requirements for running this project:
 
 1)audit : Audit db is for recording actions performed by the logged in user.
 
